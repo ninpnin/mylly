@@ -1,3 +1,3 @@
-# Scill
+# Mylly
 
-Init mill projects for scala. Written in python.
+Mylly (_finnish for mill_): Init mill projects for scala. Written in python.
